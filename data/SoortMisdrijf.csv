@@ -1,0 +1,283 @@
+"Key","Title","Description","CategoryGroupID"
+"0.0.0 ","Totaal misdrijven",,
+"1.1.1 ","1.1.1 Diefstal/inbraak woning","A20 Gekwal. Diefstal in/uit woning
+A30 Diefstal in/uit woning (niet gekwal.)
+B20 Gekwal. Diefstal met geweld in/uit woning
+B30 Diefstal met geweld in/uit woning (niet gekwal.)
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)
+",
+"1.1.2 ","1.1.2 Diefstal/inbraak box/garage/schuur","A21 Gekwal. Diefstal in/uit box/garage/schuur
+A34 Diefstal in/uit box/garage/schuur/erf (niet gekwal.)
+B21 Gekwal. Diefstal met geweld in/uit box/garage/schuur
+B34 Diefstal met geweld in/uit box/garage/schuur (niet gekwal.)
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)
+",
+"1.2.1 ","1.2.1 Diefstal uit/vanaf motorvoertuigen","A10 Diefstal uit/vanaf personenauto
+B10 Diefstal met geweld uit/vanaf personenauto
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"1.2.2 ","1.2.2 Diefstal van motorvoertuigen","A70 Diefstal personenauto
+A71 Diefstal motor
+A76 Diefstal vrachtauto/bestelauto
+B60 Diefstal van personenauto met geweld
+B61 Diefstal met geweld motor
+B66 Diefstal met geweld vrachtauto/bestelauto
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)
+",
+"1.2.3 ","1.2.3 Diefstal van brom-, snor-, fietsen","A72 Diefstal fiets
+A73 Diefstal bromfiets/snorfiets
+B62 Diefstal met geweld fiets
+B63 Diefstal met geweld bromfiets/snorfiets
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)
+",
+"1.2.4 ","1.2.4 Zakkenrollerij","A40 Zakkenrollerij/tassenrollerij
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)
+",
+"1.2.5 ","1.2.5 Diefstal af/uit/van ov. voertuigen","A12 Diefstal uit/vanaf andere vervoermiddelen
+A74 Diefstal ander vervoermiddel
+B12 Diefstal met geweld uit/vanaf ander vervoermiddel
+B64 Diefstal met geweld ander vervoermiddel
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)
+",
+"1.3.1 ","1.3.1 Ongevallen (weg)","D11 Verkeersongeval met letsel
+D12 Verkeersongeval met dodelijke afloop
+D13 Verlaten plaats na verkeersongeval
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"1.4.1 ","1.4.1 Zedenmisdrijf","F520 Openbare schennis der eerbaarheid
+F521 Verkrachting
+F522 Aanranding
+F523 Overige zedenmisdrijven
+F525 Pornografie
+F526 Incest/afhankelijkheid/wilsonbekwame
+F527 Seksueel misbruik kinderen (geen incest)
+F5295 Sexting
+F5296 Grooming
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"1.4.2 ","1.4.2 Moord, doodslag","F540 Doodslag/moord
+F541 Euthanasie
+F542 Overige misdrijven tegen het leven
+F543 Illegale abortus
+F544 Behulpzaam bij zelfmoord
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"1.4.3 ","1.4.3 Openlijk geweld (persoon)","F12 Openlijke geweldpleging tegen personen
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"1.4.4 ","1.4.4 Bedreiging","F530 Bedreiging
+F531 Overige misdrijven tegen de persoonlijke vrijheid
+F532 Gijzeling/ontvoering
+F533 Stalking
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)
+",
+"1.4.5 ","1.4.5 Mishandeling","F550 Eenvoudige mishandeling
+F551 Zware mishandeling
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)
+",
+"1.4.6 ","1.4.6 Straatroof","B70 Straatroof
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"1.4.7 ","1.4.7 Overval","B72 Overval in woning
+B73 Overval op overige objecten
+B74 Overval op geld- en waardetransport
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"1.5.2 ","1.5.2 Diefstallen (water)","A11 Diefstal uit/vanaf vaartuig
+A75 Diefstal vaartuig
+B11 Diefstal met geweld uit/vanaf vaartuig
+B65 Diefstal met geweld vaartuig
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"1.6.1 ","1.6.1 Brand/ontploffing","F13 Brandstichting
+F14 Bomaanslag
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"1.6.2 ","1.6.2 Overige vermogensdelicten","A27 Gekwal. Diefstal in/uit andere gebouwen
+A36 Diefstal in/uit andere gebouwen (niet gekwal.)
+A60 Diefstal van een dier
+A80 Verduistering (evt. In dienstbetrekking)
+A81 Heling
+A82 Chantage / afpersing
+A90 Overige (eenvoudige) diefstal
+A95 Overige gekwal. Diefstal
+B27 Gekwal. Diefstal met geweld in/uit andere gebouwen
+B36 Diefstal met geweld in/uit andere gebouwen (niet gekwal.)
+B95 Overige diefstallen met geweld
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"1.6.3 ","1.6.3 Mensenhandel","F5293 Mensenhandel
+F563 Mensenhandel uitbuiting in strafbare activiteiten
+F564 Mensenhandel gedwongen orgaanverwijdering
+F562 Mensenhandel arbeidsuitbuiting
+F565 Mensenhandel overige vormen van uitbuiting
+F561 Mensenhandel sexuele uitbuiting
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.1.1 ","2.1.1 Drugs/drankoverlast","F47 Overige drugsdelicten
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.2.1 ","2.2.1 Vernieling cq. zaakbeschadiging","C20 Vernieling van/aan openbaar vervoer/abri
+C30 Vernieling van/aan openbaar gebouw
+C40 Vernieling overige objecten
+F11 Openlijke geweldpleging tegen goederen
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.4.1 ","2.4.1 Burengerucht (relatieproblemen)","F95 Overtreding huisverbod
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.4.2 ","2.4.2 Huisvredebreuk","F15 Huisvredebreuk
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.5.1 ","2.5.1 Diefstal/inbraak bedrijven enz.","A22 Gekwal. Diefstal in/uit winkel
+A23 Gekwal. Diefstal in/uit bedrijf/kantoor
+A24 Gekwal. Diefstal in/uit sportcomplex
+A25 Gekwal. Diefstal in/uit hotel/pension
+A26 Gekwal. Diefstal in/uit school
+A31 Diefstal in/uit school (niet gekwal.)
+A32 Diefstal in/uit bedrijf/kantoor (niet gekwal.)
+A33 Diefstal in/uit hotel/pension (niet gekwal.)
+A35 Diefstal in/uit sportcomplex (niet gekwal.)
+B22 Gekwal. Diefstal met geweld in/uit winkel
+B23 Gekwal. Diefstal met geweld in/uit bedrijf/kantoor
+B24 Gekwal. Diefstal met geweld in/uit sportcomplex
+B25 Gekwal. Diefstal met geweld in/uit hotel/pension
+B26 Gekwal. Diefstal met geweld in/uit school
+B31 Diefstal met geweld in/uit school (niet gekwal.)
+B32 Diefstal met geweld in/uit bedrijf/kantoor (niet gekwal.)
+B33 Diefstal met geweld in/uit hotel/pension (niet gekwal.)
+B35 Diefstal met geweld in/uit sportcomplex (niet gekwal.)
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.5.2 ","2.5.2 Winkeldiefstal","A50 Winkeldiefstal
+B50 Winkeldiefstal met geweld
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.1 ","2.6.1 Inrichting Wet Milieubeheer","M08 Inrichtingen wet milieubeheer
+M135 Inrichtingen vuurwerk
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.2 ","2.6.2 Bodem","M011 Op/in bodem brengen afvalstoffen
+M0111 Afval drugslab
+M031 Bodembescherming
+M032 Ontgrondingen
+M033 Ondergrondse tanks
+M034 Bodemsanering
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.3 ","2.6.3 Water","M141 Verontreinigingen oppervlaktewater
+M144 Slootdemping
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.4 ","2.6.4 Afval","M012 Afvaltransport
+M013 Huishoudelijk afval aanbieden/doorzoeke/inzamelen
+M014 Afval verbranden
+M015 Autowrak (milieu)
+M016 Afvallozing in riool
+M017 Afvalstoffen inzamelen
+M019 Asbest
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.5 ","2.6.5 Bouwstoffen","M018 Bouw- en sloopafval
+M041 Bouwstoffen op of in de bodem
+M042 Bouwstoffen in oppervlaktewater
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.7 ","2.6.7 Mest","M091 Uitrijden mest
+M092 Opslag mest
+M093 Vervoer mest
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.8 ","2.6.8 Transport gevaarlijke stoffen","M071 Transport gevaarlijke stoffen over de weg
+M072 Transport gevaarlijke stoffen over binnenwater
+M073 Transport gevaarlijke stoffen over de rijn
+M074 Transport gevaarlijke stoffen over zee
+M075 Transport gevaarlijke stoffen over het spoor
+M076 Transport gevaarlijke stoffen door de lucht
+M077 Cfk (handel, in-/uitvoer, vullen)
+M078 Koelinstallatie
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.9 ","2.6.9 Vuurwerk","M132 Transport vuurwerk
+M134 Bezitten/vervaardigen/voorhanden hebben/afleveren vuurwerk
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.10","2.6.10 Bestrijdingsmiddelen","M021 Gebruik bestrijdingsmiddelen
+M022 Opslag en voorhanden hebben bestrijdingsmiddelen
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.11","2.6.11 Natuur en landschap","M23 Wet inzake luchtverontreiniging
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.12","2.6.12 Ruimtelijke ordening","M11 Ruimtelijke ordening
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.13","2.6.13 Dieren","M051 Gezondheid en welzijn dieren en dierenvervoer
+ M102 Cites (uitheemse planten en dieren)
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.6.14","2.6.14 Voedselveiligheid","M12 Voedselveiligheid en slacht
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.7.2 ","2.7.2 Bijzondere wetten","F91 Misdrijven wet op de kansspelen
+F92 Telecommunicatiewet
+F93 Misdrijven anders
+F94 Witwassen
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"2.7.3 ","2.7.3 Leefbaarheid (overig)","F16 Lokaalvredebreuk
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.1.1 ","3.1.1 Drugshandel","F40 Bezit hard-drugs (lijst 1)
+F41 Bezit softdrugs (lijst 2)
+F42 Handel e.d. hard-drugs (lijst 1)
+F43 Handel e.d. softdrugs (lijst 2)
+F44 Vervaardigen hard-drugs (lijst 1)
+F45 Vervaardigen softdrugs (lijst 2)
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.1.2 ","3.1.2 Mensensmokkel","F5294 Mensensmokkel
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.1.3 ","3.1.3 Wapenhandel","F70 Bezit vuurwapens
+F71 Handel vuurwapens
+F72 Bezit overige wapens
+F73 Handel overige wapens
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.2.1 ","3.2.1 Kinderporno","F5291 Kinderpornografie
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.2.2 ","3.2.2 Kinderprostitutie","F5292 Kinderprostitutie
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.3.2 ","3.3.2 Onder invloed (lucht)","L90 Vliegen onder invloed drugs/medicijnen
+L91 Vliegen onder invloed alcohol
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.3.5 ","3.3.5 Lucht (overig)","L21 Luchtvaartwet
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.4.2 ","3.4.2 Onder invloed (water)","L80 Varen onder invloed drugs/medicijnen
+L81 Varen onder invloed alcohol
+L83 Weigeren ademanalyse (varen)
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.5.2 ","3.5.2 Onder invloed (weg)","D20 Rijden onder invloed drugs/medicijnen
+D21 Rijden onder invloed alcohol
+D23 Weigeren ademanalyse
+D24 Weigeren bloedproef
+D25 Weigeren vervangend (urine)onderzoek
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.5.5 ","3.5.5 Weg (overig)","D40 Rijden tijdens rijverbod
+D41 Rijden terwijl rijbewijs is ingevorderd
+D42 Rijden tijdens ontzegging rijbevoegdheid
+D44 Rijden met ongeldig verklaard rijbewijs
+D50 Joyriding
+D51 Vals kenteken/kentekenplaten
+D52 Overig verkeersmisdrijf
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.6.4 ","3.6.4 Aantasting openbare orde","F10 Overige delicten openbare orde
+F17 Wederspannigheid (verzet)
+F18 Niet voldoen aan bevel/vordering
+F19 Overige misdrijven tegen het openbaar gezag
+F30 Valse identiteit opgeven
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.7.1 ","3.7.1 Discriminatie","F50 Discriminatie
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.7.2 ","3.7.2 Vreemdelingenzorg","F0064 Zich als ongewenst verklaarde vreemdeling in NL bevinden
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.7.3 ","3.7.3 Maatsch. integriteit (overig)","F51 Belediging
+F5231 Ontucht met dieren / dierenporno
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.7.4 ","3.7.4 Cybercrime","F90 Cybercrime",
+"3.9.1 ","3.9.1 Horizontale fraude","F614 Fraude met betaalproducten
+F616 Ie-fraude/namaakgioederen
+F617 Identiteitsfraude
+F620 Overige horizontale fraude
+F622 Verzekerings en assurantiefraude
+F625 Faillissementsfraude
+F631 Krediet-,hypotheek- en depotfraude
+F632 Aquisitiefraude
+F633 Vastgoedfraude
+F634 Fraude met kilometertellers
+F635 Fraude in de zorg
+F636 Fraude met onlinehandel
+F637 Voorschotfraude
+F638 Telecomfraude
+F639 Beleggingsfraude
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.9.2 ","3.9.2 Verticale fraude","F621 Uitkeringsfraude
+F623 Subsidiefraude
+F649 Overige verticale fraude
+(uitgebreide beschrijving op https://www.politie.nl/algemeen/dataportaal/dataportaal-definities.html)",
+"3.9.3 ","3.9.3 Fraude (overig)","F600 Oplichting
+F601 Flessentrekkerij
+F602 Overig bedrog
+F610 Vals geld aanmaken
+F611 Vals geld uitgeven
+F612 Vervalsingen overig
+F613 Vervalsen paspoort/identiteitskaart/reisdocument
+F614 Vervalsing bankpas/giropas/cheques
+F615 Vervalsen rijbewijs
+F624 Valse aangifte",

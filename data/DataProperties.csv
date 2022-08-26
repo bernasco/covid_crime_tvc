@@ -1,0 +1,70 @@
+"odata.type","ID","Position","ParentID","Type","Key","Title","Description","ReleasePolicy","Datatype","Unit","Decimals","Default"
+"Cbs.OData.TimeDimension",0,0,,"TimeDimension","Perioden","Perioden","",TRUE,,,,
+"Cbs.OData.Topic",1,1,,"Topic","BevolkingAanHetBeginVanDePeriode_1","Bevolking aan het begin van de periode","Bevolking:
+De inwoners van een bepaald gebied.
+
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage. In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.",,"Long","aantal",0,"Impossible"
+"Cbs.OData.Topic",2,2,,"Topic","LevendGeborenKinderen_2","Levend geboren kinderen","Levend geboren kind:
+Kind dat na de geboorte enig teken van leven heeft vertoond, ongeacht de zwangerschapsduur.
+
+Trendbreuk nagekomen berichten 
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. Een link naar de Korte onderzoeksbeschrijving Bevolkingsstatistiek is te vinden in de Tabeltoelichting.
+",,"Long","aantal",0,"Impossible"
+"Cbs.OData.Topic",3,3,,"Topic","Overledenen_3","Overledenen","Overledene:
+Persoon die is overleden waarbij een bevoegde arts een overlijdensakte heeft ondertekend.
+
+Trendbreuk nagekomen berichten 
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. Een link naar de Korte onderzoeksbeschrijving Bevolkingsstatistiek is te vinden in de Tabeltoelichting.
+",,"Long","aantal",0,"Impossible"
+"Cbs.OData.Topic",4,4,,"Topic","Immigratie_4","Immigratie","Vestiging van personen vanuit het buitenland in Nederland. 
+Om als immigrant te kunnen worden geteld dienen deze personen ingeschreven te worden in de gemeentelijke bevolkingsregisters. Men wordt ingeschreven als men verwacht minimaal vier maanden Nederland te blijven.
+
+Trendbreuk buitenlandse migratiecijfers
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- eerder gemiste berichten worden nu wel meegeteld;
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+
+",,"Long","aantal",0,"Impossible"
+"Cbs.OData.Topic",5,5,,"Topic","EmigratieInclusiefAdministratieveC_5","Emigratie inclusief administratieve c...","Emigratie inclusief het saldo van de administratieve correcties.
+Cijfers over emigratie inclusief het saldo van de administratieve correcties geven een beter beeld van de werkelijke emigratie dan cijfers over emigratie exclusief deze correcties.
+
+Trendbreuk buitenlandse migratiecijfers
+Door een verbetering in het productieproces vindt er een kleine verschuiving plaats in de cijfers van de buitenlandse migratie. Met ingang van 2010 zijn de volgende wijzigingen doorgevoerd:
+- eerder gemiste berichten worden nu wel meegeteld;
+- administratieve opnemingen die voorafgegaan worden door emigratie worden nu beschouwd als immigratie;
+- administratieve afvoeringen die gevolgd worden door immigratie worden nu beschouwd als emigratie.
+
+Emigratie:
+Vertrek van personen naar het buitenland. Men wordt uit het bevolkingsregister afgevoerd wanneer de verwachte verblijfsduur in het buitenland ten minste acht maanden bedraagt. Het gaat hier steeds om de aan de gemeente gemelde emigratie.
+
+Saldo administratieve correcties:
+Administratieve opnemingen in de gemeentelijke bevolkingsregisters min de administratieve afvoeringen uit de gemeentelijke bevolkingsregisters.
+
+Administratieve opnemingen:
+Opneming van een persoon in de bevolkingsregisters van een gemeente op verzoek van de betrokkene. Deze opneming is niet het gevolg van geboorte, immigratie of vestiging van die persoon vanuit een andere gemeente in Nederland. Een administratieve opneming is meestal een hervestiging van een persoon die eerder administratief is afgevoerd en die verklaart nooit uit Nederland te zijn weggeweest.
+
+Administratieve afvoeringen:
+Verwijdering van een persoon uit de bevolkingsregisters van een gemeente nadat de gemeente heeft vastgesteld dat de verblijfplaats van deze persoon niet bekend is, deze persoon niet bereikbaar is en waarschijnlijk geen inwoner meer is van een Nederlandse gemeente. Een administratieve afvoering is meestal het gevolg van het vertrek van een persoon naar het buitenland zonder dat deze de gemeente hiervan op de hoogte heeft gesteld.
+
+",,"Long","aantal",0,"Impossible"
+"Cbs.OData.Topic",6,6,,"Topic","OverigeCorrecties_6","Overige correcties","Verschillen in de bevolkingsomvang en samenstelling tussen twee opeenvolgende jaren die niet kunnen worden verklaard uit de door de gemeenten gedurende het jaar doorgevoerde wijzigingen in de bevolkingsregisters.
+
+Er is voor gekozen overige correcties alleen in de definitieve cijfers op te nemen en in één maand, namelijk de maand december.
+
+
+",,"Long","aantal",0,"Impossible"
+"Cbs.OData.Topic",7,7,,"Topic","TotaleBevolkingsgroei_7","Totale bevolkingsgroei","Bevolkingsgroei:
+De toe- of afname van de bevolking in een bepaalde periode.
+
+Trendbreuk nagekomen berichten 
+Vanaf verslagjaar 2010 worden méér nagekomen berichten meegeteld. Voor een beschrijving van nagekomen berichten en de gevolgen voor de cijfers in de tabel zie de Korte onderzoeksbeschrijving Bevolkingsstatistiek. Een link naar de Korte onderzoeksbeschrijving Bevolkingsstatistiek is te vinden in de Tabeltoelichting.
+
+Bevolking:
+De inwoners van een bepaald gebied.
+
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage. In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.",,"Long","aantal",0,"Impossible"
+"Cbs.OData.Topic",8,8,,"Topic","BevolkingAanHetEindVanDePeriode_8","Bevolking aan het eind van de periode","Bevolking:
+De inwoners van een bepaald gebied.
+
+In de bevolkingsaantallen zijn uitsluitend personen begrepen die zijn opgenomen in het bevolkingsregister van een Nederlandse gemeente. In principe wordt iedereen die voor onbepaalde tijd in Nederland woont, opgenomen in het bevolkingsregister van de woongemeente. Personen die tot de bevolking van Nederland behoren, maar voor wie geen vaste woonplaats valt aan te wijzen, zijn opgenomen in het bevolkingsregister van de gemeente 's-Gravenhage. In de bevolkingsregisters zijn niet opgenomen de in Nederland wonende personen waarvoor uitzonderingsregels gelden met betrekking tot opneming in de bevolkingsregisters (bijvoorbeeld diplomaten en NAVO militairen) en personen die niet legaal in Nederland verblijven.",,"Long","aantal",0,"Impossible"
